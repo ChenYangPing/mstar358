@@ -1,3 +1,4 @@
 #!/bin/bash
+rm -rf .git
 git clone ssh://juzhou@192.168.199.99/opt/.backup/git_MSD6A358_Project/jb.git
 git clone ssh://juzhou@192.168.199.99/opt/.backup/git_MSD6A358_Project/jb_tools.git
